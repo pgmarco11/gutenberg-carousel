@@ -38,12 +38,15 @@ function create_carousel(){
 				<h2><?php echo $post->post_title; ?></h2>
 				<p><?php echo get_the_date( 'F d, Y', $post->ID ) ?></p> 
 
-			</div>;
+			</div>
 
 
 			<?php endforeach; ?>
+				
+			</div>
 
 			<?php endif;
 
 }
 
+?>
