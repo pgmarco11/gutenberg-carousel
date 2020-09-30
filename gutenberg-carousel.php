@@ -1,12 +1,11 @@
 <?php 
 
 /*
- * The file responsible for starting the Gutneberg Carouel
+ * The file responsible for starting the Gutneberg Carousel
  *
+ * This plugin shows a carousel of posts, to add a carousl to a 
+ * post or page add the shortcode [show-carousel]
  * 
- * 
- * 
- *
  * 
  *
  * @wordpress-plugin
